@@ -2,7 +2,7 @@
 
 ![screen shot](./sc.png)
 
-### [Link]()
+### [Link](https://reactapp2ozgur.netlify.app/)
 
 ## Description
 
