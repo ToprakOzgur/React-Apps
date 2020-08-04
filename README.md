@@ -4,5 +4,6 @@ React js Apps completed with tutorials
 
 ## App List
 
-- [City Tours](city-tours) : React, Sass
+- [Resort](resort) : React, Contentful
 - [Todo List](todo-list) : React, Bootstrap
+- [City Tours](city-tours) : React, Sass
