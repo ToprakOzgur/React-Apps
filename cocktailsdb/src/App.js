@@ -15,6 +15,9 @@ export default function App() {
         <Route exact path="/about">
           <About />
         </Route>
+        <Route exact path="/cocktails/:id">
+          <SingleCocktail />
+        </Route>
         <Route exact path="*">
           <Error />
         </Route>
